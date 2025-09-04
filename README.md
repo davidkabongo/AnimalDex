@@ -13,7 +13,7 @@ Table of Contents
 5. Overview
 6. Description
 
-Animal-Dex is an on-the-go encyclopedia of animal facts. Users can look up whatever animal they want and get basic and advanced information. They can save their favorite animals for later fact reference
+Animal-Dex is an on-the-go encyclopedia of animal facts. Users can look up whatever animal they want and get basic and advanced information. They can save their favorite animals for later fact reference. To use the app, download the code and open it in XCode :)
 
 App Evaluation
 [Evaluation of your app across the following attributes]
